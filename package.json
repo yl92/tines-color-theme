@@ -1,7 +1,7 @@
 {
 	"name": "tines-color-theme",
 	"displayName": "Tines Color Theme",
-	"description": "A color theme based on the cozy Tines look and feel.",
+	"description": "A VS Code color theme based on the cozy Tines look and feel.",
 	"version": "1.0.0",
 	"publisher": "yile-ou",
 	"author": {
