@@ -1,0 +1,39 @@
+{
+	"name": "tines-color-theme",
+	"displayName": "Tines Color Theme",
+	"description": "A color theme based on the cozy Tines look and feel.",
+	"version": "1.0.0",
+	"publisher": "yile-ou",
+	"author": {
+		"name": "Yile Ou",
+		"email": "yile@tines.io",
+		"url": "https://tines.com/"
+	},
+	"repository": "https://github.com/yl92/tines-color-theme",
+	"icon": "tines-icon.png",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"color-theme",
+		"tines"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "tines-dark",
+				"label": "Tines Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tines-color-theme-dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "803fc541-0a71-4674-86ff-3ac171a963d0",
+		"publisherDisplayName": "Yile",
+		"publisherId": "8df3871a-5dbc-45cb-943b-a8195a1ce195"
+	}
+}
