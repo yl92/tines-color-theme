@@ -181,7 +181,7 @@
     "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#8578E622",
     "list.inactiveSelectionForeground": "#766cbd",
-    "list.hoverBackground": "#ffdbad10",
+    "list.hoverBackground": "#766cbd10",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#cc832f",
     "list.warningForeground": "#cf8b3d",
