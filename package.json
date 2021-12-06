@@ -30,6 +30,12 @@
 				"path": "./themes/Tines-dark-color-theme.json"
 			},
 			{
+				"id": "tines-gray",
+				"label": "Tines \\ Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tines-gray-color-theme.json"
+			},
+			{
 				"id": "tines-light",
 				"label": "Tines \\ Light",
 				"uiTheme": "vs",
