@@ -25,9 +25,15 @@
 		"themes": [
 			{
 				"id": "tines-dark",
-				"label": "Tines Dark",
+				"label": "Tines \\ Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Tines-dark-color-theme.json"
+			},
+			{
+				"id": "tines-light",
+				"label": "Tines \\ Light",
+				"uiTheme": "vs",
+				"path": "./themes/Tines-light-color-theme.json"
 			}
 		]
 	},
