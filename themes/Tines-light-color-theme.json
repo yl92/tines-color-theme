@@ -30,7 +30,7 @@
     "editorInfo.foreground": "#8578E6",
     "editorHint.foreground": "#32313B",
     "titleBar.activeBackground": "#F8F4F0",
-    "titleBar.activeForeground": "#806fff",
+    "titleBar.activeForeground": "#222126",
     "titleBar.inactiveBackground": "#F8F4F0",
     "titleBar.inactiveForeground": "#32313Bcc",
     "tab.border": "#0000",
