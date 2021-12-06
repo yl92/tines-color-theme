@@ -4,7 +4,7 @@
   "colors": {
     "foreground": "#ffffff",
     "editorCodeLens.foreground": "#FBB598",
-    "icon.foreground": "#45BE8B",
+    "icon.foreground": "#8578E6",
     "descriptionForeground": "#F6926798",
     "sash.hoverBorder": "#8578E6",
     "editorRuler.foreground": "#F6926798",
@@ -1255,7 +1255,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FFBD59"
+        "foreground": "#45BE8B"
       }
     },
     {
@@ -1279,7 +1279,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#8dc2b9"
+        "foreground": "#83c0a7"
       }
     },
     {
@@ -1297,7 +1297,7 @@
         "support.type.vendored.property-name"
       ],
       "settings": {
-        "foreground": "#5ccf79"
+        "foreground": "#45BE8B"
       }
     },
     {
@@ -1426,7 +1426,7 @@
         "variable.function.constructor"
       ],
       "settings": {
-        "foreground": "#88bd58"
+        "foreground": "#45BE8B"
       }
     },
     {
