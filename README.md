@@ -1,4 +1,4 @@
-**A color theme based on the cozy [Tines.com](https://tines.com) look and feel**
+**An (unofficial) color theme based on the cozy [Tines.com](https://tines.com) look and feel**
 
 # To run locally:
 
